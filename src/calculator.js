@@ -14,3 +14,4 @@ function multiply(a, b) {
 
 
 module.exports = { add, subtract, multiply };
+var == 5;
